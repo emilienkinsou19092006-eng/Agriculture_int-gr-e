@@ -1,0 +1,3 @@
+User-agent:*
+Allow: /
+Sitemap:https://Agriculture_biologique_intégré//sitemap.xml
