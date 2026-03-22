@@ -1,3 +1,4 @@
 User-agent:*
-Allow: /
+Disallow: /private/
+Allow: /public/
 Sitemap:https://Agriculture_int-gr-e//sitemap.xml
